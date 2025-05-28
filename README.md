@@ -63,7 +63,7 @@ The dataset was pre-cleaned and transformed in Excel before being imported to Po
 
 | File | Description |
 |------|-------------|
-| `R-Z_instytucje_v08.xlsx` | Final pre-processed dataset |
+| `R-Z_instytucje_v08.xlsx` | Final processed dataset |
 | `RZ-Institutions-Poland-2025-v01_PL.pbix` | Power BI dashboard file in Polish |
 | `LICENSE` | CC0 license |
 | `README.md` | This file 😊 |
