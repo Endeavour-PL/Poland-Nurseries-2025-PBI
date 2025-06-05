@@ -78,5 +78,5 @@ Source: [Rejestr żłobków i klubów dziecięcych – lista instytucji](https:/
 
 ---
 
-📌 Created by **Filip Jasiński** – research consultant, analyst, and data visualization designer  
+📌 Created by **Filip Jasiński** – research consultant
 🔗 [LinkedIn – Filip Jasiński](https://www.linkedin.com/in/filip-j-80689681/)
